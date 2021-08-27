@@ -1,0 +1,8 @@
+.todoItem{
+    color: #fff;
+    background: #8b005d;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    margin: 1rem 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}
